@@ -19,7 +19,7 @@ Tthis URL is a localhost where the actual Python-based interactive data visuailz
 After, it should take you to a local webpage that actually displays the various data visualizations created in Python. There should be two interactive plots, both have range sliders which allow you to interact with the plot and see changes happening in real-time. 
 
 
-# Installation commands:#
+## Installation commands:
 
 pip install json 
 
