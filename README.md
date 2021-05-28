@@ -18,6 +18,8 @@ This URL is a localhost where the actual Python-based interactive data visuailza
 
 After, it should take you to a local webpage that actually displays the various data visualizations created in Python. There should be two interactive plots, both have range sliders which allow you to interact with the plot and see changes happening in real-time. You can interact the the plots and see the various points along with their respective data. 
 
+In regards to audience engagment, I classified and defined this as the number of likes a tweet has. If a particular tweet has a lot of likes (>100) it is more engaging than tweets with less likes (<50). In general, Twitter users more often like tweets than retweet because it's easier to do, is less intrusive to others (i.e more intimate), and doesn't clog/spam your/other's timeline. Furtermore, taking a look at the top 30 most liked and retweeted tweets on Wikipedia (https://en.wikipedia.org/wiki/List_of_most-liked_tweets, https://en.wikipedia.org/wiki/List_of_most-retweeted_tweets) we can clearly see that the top tweets have more likes than retweets, meaning more people engage in liking tweets than retweeting.   
+
 ## Installation commands:
 
 pip install json 
