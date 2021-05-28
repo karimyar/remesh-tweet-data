@@ -8,7 +8,9 @@ In case any directions are unclear or something goes awry, please refer to the f
 
 This project is based off Python3 and can be run through the terminal (or any command line prompt). Make sure the json file (i.e. Twitter data) is in the same directory as the actual python file. The Python file utilizes certain libraries such as json, pandas, plotly and dash, so please be sure to have installed those dependencies beforehand (see below for commands to install each).
 
-To run the program, open the terminal (or command line prompt) and navigate to the folder where both the json data file and python project file are hosted. In my case I put these files on my desktop so it's easier to navigate to/from. Make sure to install the various required Python libraries/dependencies within this folder (see below). After you've navigated to the necessary folder in the terminal (where json & python file is housed), type "python3 project.py" in command line and the program should attempt to execute. 
+To run the program, open the terminal (or command line prompt) and navigate to the folder where both the json data file and python project file are hosted. In my case I put these files on my desktop so it's easier to navigate to/from. Make sure to install the various required Python libraries/dependencies within this folder (see below). 
+
+After you've navigated to the necessary folder in the terminal (where json & python file is housed), type "python3 project.py" in command line and the program should attempt to execute. 
 
 If it is succesfull you will see a prompt pop up underneath the previous command saying: "Dash is running on http://127.0.0.1:8050/"
 
